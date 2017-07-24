@@ -7,3 +7,4 @@ remote changes1
 remote changes2
 Add Some changes locally
 Local change
+Fixed bug
