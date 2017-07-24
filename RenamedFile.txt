@@ -7,7 +7,5 @@ remote changes1
 remote changes2
 Add Some changes locally
 Local change
-Fixed bug
-ch on develope
-more imp feature
-Finish imp feature
+f ch1
+f ch2
