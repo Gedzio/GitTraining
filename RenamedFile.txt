@@ -6,3 +6,4 @@ and thats enough
 remote changes1
 remote changes2
 Add Some changes locally
+Another remote change
