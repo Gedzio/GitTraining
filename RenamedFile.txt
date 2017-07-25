@@ -12,3 +12,5 @@ f ch2
 dadas
 Fixed bug
 HotFix2
+Change 1
+Change 2
